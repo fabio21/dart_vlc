@@ -11,10 +11,10 @@ dependencies:
   dart_vlc:
     path: ../
 
-dependency_overrides:
-  dart_vlc_ffi:
-    path: ../ffi
+#dependency_overrides:
+#  dart_vlc_ffi:
+#    path: ../ffi
 
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.5
 flutter:
   uses-material-design: true
